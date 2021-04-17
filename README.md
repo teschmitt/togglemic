@@ -8,7 +8,7 @@ I'm reluctant to visibly switch off my mic during video meetings. That's why I h
 
 I won't lie, I threw this together rather quickly so portability was not on my mind. There is one major caveat:
 
-This sketch uses the [Keyboard library](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/) which require a board with 32U4 or SAMD microcontroller. Getting a Nano, UNO or other type of microcontroller to work as a keyboard is also possible: [See here](http://mitchtech.net/arduino-usb-hid-keyboard/) for an example and [here](https://arduino.stackexchange.com/a/541) for another explanation.
+This sketch uses the [Keyboard library](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/) which requires a board with 32U4 or SAMD microcontroller. Getting a Nano, UNO or other type of microcontroller to work as a keyboard is also possible: [See here](http://mitchtech.net/arduino-usb-hid-keyboard/) for an example and [here](https://arduino.stackexchange.com/a/541) for another explanation.
 
 There is also [this very nice project](https://github.com/DanNixon/pulseaudio-ptt) which interfaces with PulseAudio through a client Python script running on the PC directly.
 
